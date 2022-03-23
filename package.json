@@ -1,0 +1,12 @@
+{
+  "name": "using-danfojs",
+  "version": "1.0.0",
+  "description": "A simple repository to try out danfoJS.",
+  "main": "index.js",
+  "author": "Leonardo Lemos <leo.lemos.ds@icloud.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "danfojs-node": "^1.0.4"
+  }
+}
